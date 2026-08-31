@@ -1,0 +1,1070 @@
+{
+  "38": {
+    "name": "Nathan Jones",
+    "jpName": "イナイレDB",
+    "sourceNo": 38,
+    "internalCode": "c01000410",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000410",
+    "moves": [
+      {
+        "skillId": "rhk10010",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhk10010",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00140",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00140",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00210",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00210",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00800",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00800",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00190",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00190",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "39": {
+    "name": "Russell Walk",
+    "jpName": "イナイレDB",
+    "sourceNo": 39,
+    "internalCode": "c01000420",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000420",
+    "moves": [
+      {
+        "skillId": "rhd10020",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10020",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00030",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "40": {
+    "name": "Jason Jones",
+    "jpName": "イナイレDB",
+    "sourceNo": 40,
+    "internalCode": "c01000430",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000430",
+    "moves": [
+      {
+        "skillId": "rhd10050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00080",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00080",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00250",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00250",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00030",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00160",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00160",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "41": {
+    "name": "Ken Furan",
+    "jpName": "イナイレDB",
+    "sourceNo": 41,
+    "internalCode": "c01000440",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000440",
+    "moves": [
+      {
+        "skillId": "rhd10050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00040",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00040",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00200",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 70,
+        "tension": 70,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00200",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00400",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 85,
+        "tension": 80,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00400",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "42": {
+    "name": "Jerry Fulton",
+    "jpName": "イナイレDB",
+    "sourceNo": 42,
+    "internalCode": "c01000450",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000450",
+    "moves": [
+      {
+        "skillId": "rhd10010",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10010",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00110",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00110",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00160",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00160",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "43": {
+    "name": "Ray Mannings",
+    "jpName": "イナイレDB",
+    "sourceNo": 43,
+    "internalCode": "c01000460",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000460",
+    "moves": [
+      {
+        "skillId": "rho10010",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00050",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "44": {
+    "name": "Robert Mayer",
+    "jpName": "イナイレDB",
+    "sourceNo": 44,
+    "internalCode": "c01000470",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000470",
+    "moves": [
+      {
+        "skillId": "rho10010",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00060",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "45": {
+    "name": "Alexander Brave",
+    "jpName": "イナイレDB",
+    "sourceNo": 45,
+    "internalCode": "c01000480",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000480",
+    "moves": [
+      {
+        "skillId": "rho10050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00120",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00120",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00100",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00100",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "46": {
+    "name": "Johan Tassman",
+    "jpName": "イナイレDB",
+    "sourceNo": 46,
+    "internalCode": "c01000490",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000490",
+    "moves": [
+      {
+        "skillId": "rhs10030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10030",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00500",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00500",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs01590",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Forest",
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs01590",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00840",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": null,
+        "tension": null,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00840",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "47": {
+    "name": "Troy Moon",
+    "jpName": "イナイレDB",
+    "sourceNo": 47,
+    "internalCode": "c01000500",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000500",
+    "moves": [
+      {
+        "skillId": "rho10030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10030",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00020",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 70,
+        "tension": 70,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00020",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00630",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 70,
+        "tension": 70,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00630",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00240",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00240",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "48": {
+    "name": "Burt Wolf",
+    "jpName": "イナイレDB",
+    "sourceNo": 48,
+    "internalCode": "c01000510",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000510",
+    "moves": [
+      {
+        "skillId": "rho10010",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00160",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00160",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "49": {
+    "name": "Rob Crombie",
+    "jpName": "イナイレDB",
+    "sourceNo": 49,
+    "internalCode": "c01000520",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000520",
+    "moves": [
+      {
+        "skillId": "rhk10030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhk10030",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00050",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00100",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00100",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00740",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00740",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whk00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00150",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "50": {
+    "name": "Chuck Dollman",
+    "jpName": "イナイレDB",
+    "sourceNo": 50,
+    "internalCode": "c01000530",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000530",
+    "moves": [
+      {
+        "skillId": "rhs10020",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10020",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00060",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00380",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Fire",
+        "power": 70,
+        "tension": 70,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00380",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "51": {
+    "name": "Uxley Allen",
+    "jpName": "イナイレDB",
+    "sourceNo": 51,
+    "internalCode": "c01000540",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000540",
+    "moves": [
+      {
+        "skillId": "rhs10030",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10030",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00500",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00500",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00290",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00290",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whs00740",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 70,
+        "tension": 70,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00740",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "52": {
+    "name": "Phil Noir",
+    "jpName": "イナイレDB",
+    "sourceNo": 52,
+    "internalCode": "c01000550",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000550",
+    "moves": [
+      {
+        "skillId": "rhs10040",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10040",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "who00250",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00250",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00840",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": null,
+        "tension": null,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00840",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  },
+  "53": {
+    "name": "Mick Askley",
+    "jpName": "イナイレDB",
+    "sourceNo": 53,
+    "internalCode": "c01000560",
+    "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000560",
+    "moves": [
+      {
+        "skillId": "rho10020",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 30,
+        "tension": 40,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10020",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00150",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00060",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": "Wind",
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00090",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 60,
+        "tension": 60,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
+        "metadataResolution": "not_found_exact_jp"
+      },
+      {
+        "skillId": "whd00080",
+        "name": null,
+        "jpName": "イナイレDB",
+        "type": null,
+        "element": null,
+        "power": 50,
+        "tension": 50,
+        "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00080",
+        "metadataResolution": "not_found_exact_jp"
+      }
+    ]
+  }
+}
