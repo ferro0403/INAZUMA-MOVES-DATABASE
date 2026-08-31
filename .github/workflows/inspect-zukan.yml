@@ -1,0 +1,17 @@
+name: Inspect Zukan skill HTML
+on:
+  push:
+    branches: [extract/azalee-discovery]
+    paths:
+      - scripts/inspect_zukan_html.py
+      - .github/workflows/inspect-zukan.yml
+  workflow_dispatch:
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: extract/azalee-discovery
+      - run: python3 scripts/inspect_zukan_html.py
