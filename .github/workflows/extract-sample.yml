@@ -1,0 +1,38 @@
+name: Extract validated moves sample
+
+on:
+  push:
+    branches:
+      - extract/azalee-discovery
+    paths:
+      - scripts/extract_sample_occult.py
+      - .github/workflows/extract-sample.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: extract/azalee-discovery
+
+      - name: Extract source-owned moves
+        run: python3 scripts/extract_sample_occult.py
+
+      - name: Commit validated sample and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sample_ie1_occult_player_moves.json reports/sample_ie1_occult_report.json
+          if git diff --cached --quiet; then
+            echo "No output changes"
+          else
+            git commit -m "Generate validated Occult moves sample [skip ci]"
+            git push origin HEAD:extract/azalee-discovery
+          fi
