@@ -7,513 +7,105 @@
   "requestedPlayers": 16,
   "resolvedPlayers": 16,
   "unresolvedPlayers": [],
-  "resolvedMoves": 0,
+  "resolvedMoves": 68,
   "unresolvedMoves": [
     {
       "playerId": "38",
       "skillId": "rhk10010",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "38",
-      "skillId": "whk00050",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "38",
-      "skillId": "whk00140",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "38",
-      "skillId": "whd00210",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "38",
-      "skillId": "whk00800",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "38",
-      "skillId": "whk00190",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "39",
       "skillId": "rhd10020",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "39",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "39",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "39",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "39",
-      "skillId": "whd00030",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "40",
       "skillId": "rhd10050",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "40",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "40",
-      "skillId": "whd00080",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "40",
-      "skillId": "whd00250",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "40",
-      "skillId": "whd00030",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "40",
-      "skillId": "whd00160",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "41",
       "skillId": "rhd10050",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "41",
-      "skillId": "whd00040",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "41",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "41",
-      "skillId": "whd00200",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "41",
-      "skillId": "whd00400",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "42",
       "skillId": "rhd10010",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "42",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "42",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "42",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "42",
-      "skillId": "who00110",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "42",
-      "skillId": "whd00160",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "43",
       "skillId": "rho10010",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "43",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "43",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "43",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "43",
-      "skillId": "whd00050",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "44",
       "skillId": "rho10010",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "44",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "44",
-      "skillId": "whd00060",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "44",
-      "skillId": "whk00050",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "44",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "45",
       "skillId": "rho10050",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "45",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "45",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "45",
-      "skillId": "whd00120",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "45",
-      "skillId": "who00100",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "46",
       "skillId": "rhs10030",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "46",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "46",
-      "skillId": "whs00500",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "46",
-      "skillId": "whs01590",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "46",
-      "skillId": "whd00840",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "47",
       "skillId": "rho10030",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "47",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "47",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "47",
-      "skillId": "whs00020",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "47",
-      "skillId": "who00630",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "47",
-      "skillId": "who00240",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "48",
       "skillId": "rho10010",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "48",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "48",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "48",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "48",
-      "skillId": "who00160",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "49",
       "skillId": "rhk10030",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "49",
-      "skillId": "whk00050",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "49",
-      "skillId": "whd00100",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "49",
-      "skillId": "whd00740",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "49",
-      "skillId": "whk00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "50",
       "skillId": "rhs10020",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "50",
-      "skillId": "whs00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "50",
-      "skillId": "whd00060",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "50",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "50",
-      "skillId": "who00380",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "51",
       "skillId": "rhs10030",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "51",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "51",
-      "skillId": "whs00500",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "51",
-      "skillId": "whs00290",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "51",
-      "skillId": "whs00740",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "52",
       "skillId": "rhs10040",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "52",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "52",
-      "skillId": "who00250",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "52",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "52",
-      "skillId": "whd00840",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     },
     {
       "playerId": "53",
       "skillId": "rho10020",
       "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "53",
-      "skillId": "whd00150",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "53",
-      "skillId": "whd00060",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "53",
-      "skillId": "whd00090",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
-    },
-    {
-      "playerId": "53",
-      "skillId": "whd00080",
-      "error": "incomplete metadata",
-      "metadataResolution": "not_found_exact_jp"
+      "metadataResolution": "not_found_official_zukan"
     }
   ],
-  "timingSeconds": 36.149,
+  "timingSeconds": 15.541,
   "totalMoveLinks": 84
 }

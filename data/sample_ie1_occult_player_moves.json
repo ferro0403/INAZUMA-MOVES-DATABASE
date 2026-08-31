@@ -10,67 +10,67 @@
         "skillId": "rhk10010",
         "name": null,
         "jpName": "きあいのパンチ",
-        "type": null,
+        "type": "save",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhk10010",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whk00050",
-        "name": null,
+        "name": "Warp Space",
         "jpName": "ゆがむ空間",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whk00140",
-        "name": null,
+        "name": "Whirlwind",
         "jpName": "つむじ",
-        "type": null,
+        "type": "save",
         "element": "Wind",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00140",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00210",
-        "name": null,
+        "name": "Blade Attack",
         "jpName": "ブレードアタック",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Wind",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00210",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whk00800",
-        "name": null,
+        "name": "Shadow Catch",
         "jpName": "影掴み",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00800",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whk00190",
-        "name": null,
+        "name": "Killer Blade",
         "jpName": "キラーブレード",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00190",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -85,56 +85,56 @@
         "skillId": "rhd10020",
         "name": null,
         "jpName": "ショルダーチャージ",
-        "type": null,
+        "type": "defense",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10020",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00030",
-        "name": null,
+        "name": "Coil Turn",
         "jpName": "コイルターン",
-        "type": null,
+        "type": "defense",
         "element": "Wind",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -149,67 +149,67 @@
         "skillId": "rhd10050",
         "name": null,
         "jpName": "ローリングカット",
-        "type": null,
+        "type": "defense",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00080",
-        "name": null,
+        "name": "Fake Ball",
         "jpName": "フェイクボール",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00080",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00250",
-        "name": null,
+        "name": "Clone Defence",
         "jpName": "分身ディフェンス",
-        "type": null,
-        "element": "Wind",
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00250",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00030",
-        "name": null,
+        "name": "Coil Turn",
         "jpName": "コイルターン",
-        "type": null,
+        "type": "defense",
         "element": "Wind",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00160",
-        "name": null,
+        "name": "Doppelganger",
         "jpName": "ドッペルゲンガー",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00160",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -224,56 +224,56 @@
         "skillId": "rhd10050",
         "name": null,
         "jpName": "ローリングカット",
-        "type": null,
+        "type": "defense",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00040",
-        "name": null,
+        "name": "Earthquake",
         "jpName": "アースクェイク",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Mountain",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00040",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00200",
-        "name": null,
+        "name": "Mega Quake",
         "jpName": "メガクェイク",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Mountain",
         "power": 70,
         "tension": 70,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00200",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00400",
-        "name": null,
+        "name": "No Escape",
         "jpName": "ノーエスケイプ",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Mountain",
         "power": 85,
         "tension": 80,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00400",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -288,67 +288,67 @@
         "skillId": "rhd10010",
         "name": null,
         "jpName": "フェイントプレイ",
-        "type": null,
+        "type": "defense",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhd10010",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00110",
-        "name": null,
+        "name": "Super Armadillo",
         "jpName": "スーパーアルマジロ",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Mountain",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00110",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00160",
-        "name": null,
+        "name": "Doppelganger",
         "jpName": "ドッペルゲンガー",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00160",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -363,56 +363,56 @@
         "skillId": "rho10010",
         "name": null,
         "jpName": "ホッピングトリック",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00050",
-        "name": null,
+        "name": "Quick Draw",
         "jpName": "クイックドロウ",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -427,56 +427,56 @@
         "skillId": "rho10010",
         "name": null,
         "jpName": "ホッピングトリック",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00060",
-        "name": null,
+        "name": "Spider Web",
         "jpName": "蜘蛛の糸",
-        "type": null,
-        "element": "Wind",
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whk00050",
-        "name": null,
+        "name": "Warp Space",
         "jpName": "ゆがむ空間",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -491,56 +491,56 @@
         "skillId": "rho10050",
         "name": null,
         "jpName": "フェイント抜き",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00120",
-        "name": null,
+        "name": "Hurricane Arrows",
         "jpName": "ハリケーンアロー",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Wind",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00120",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00100",
-        "name": null,
+        "name": "Black Magic",
         "jpName": "呪い",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00100",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -555,56 +555,56 @@
         "skillId": "rhs10030",
         "name": null,
         "jpName": "ワンバンシュート",
-        "type": null,
+        "type": "shot",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00500",
-        "name": null,
+        "name": "Astro Break",
         "jpName": "アストロブレイク",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00500",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs01590",
-        "name": null,
+        "name": "Will-o'-the-Wisp Shot",
         "jpName": "マボロシショット",
-        "type": null,
+        "type": "shot",
         "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs01590",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00840",
-        "name": null,
+        "name": "Spatial Portal",
         "jpName": "ディメンションカット",
-        "type": null,
-        "element": null,
-        "power": null,
-        "tension": null,
+        "type": "defense",
+        "element": "Forest",
+        "power": 60,
+        "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00840",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -619,67 +619,67 @@
         "skillId": "rho10030",
         "name": null,
         "jpName": "ヒールリフト",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00020",
-        "name": null,
+        "name": "Twin Boost",
         "jpName": "ツインブースト",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Fire",
         "power": 70,
         "tension": 70,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00020",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00630",
-        "name": null,
+        "name": "Ultra Moon",
         "jpName": "ウルトラムーン",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Forest",
         "power": 70,
         "tension": 70,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00630",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00240",
-        "name": null,
+        "name": "Magic",
         "jpName": "マジック",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00240",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -694,56 +694,56 @@
         "skillId": "rho10010",
         "name": null,
         "jpName": "ホッピングトリック",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10010",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00160",
-        "name": null,
+        "name": "Afterimage",
         "jpName": "残像",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00160",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -758,56 +758,56 @@
         "skillId": "rhk10030",
         "name": null,
         "jpName": "パワーハンドキャッチ",
-        "type": null,
+        "type": "save",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhk10030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whk00050",
-        "name": null,
+        "name": "Warp Space",
         "jpName": "ゆがむ空間",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00050",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00100",
-        "name": null,
+        "name": "Sumo Stomp",
         "jpName": "四股踏み",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Mountain",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00100",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00740",
-        "name": null,
+        "name": "Runaway Train",
         "jpName": "ダッシュトレイン",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Fire",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00740",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whk00150",
-        "name": null,
+        "name": "Rocket Kobushi",
         "jpName": "ロケットこぶし",
-        "type": null,
-        "element": null,
+        "type": "save",
+        "element": "Fire",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whk00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -822,56 +822,56 @@
         "skillId": "rhs10020",
         "name": null,
         "jpName": "曲がるシュート",
-        "type": null,
+        "type": "shot",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10020",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whs00090",
-        "name": null,
+        "name": "Phantom Shot",
         "jpName": "ファントムシュート",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00060",
-        "name": null,
+        "name": "Spider Web",
         "jpName": "蜘蛛の糸",
-        "type": null,
-        "element": "Wind",
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00380",
-        "name": null,
+        "name": "Aikido",
         "jpName": "合気道",
-        "type": null,
-        "element": "Fire",
+        "type": "dribble",
+        "element": "Wind",
         "power": 70,
         "tension": 70,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00380",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -886,56 +886,56 @@
         "skillId": "rhs10030",
         "name": null,
         "jpName": "ワンバンシュート",
-        "type": null,
+        "type": "shot",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10030",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00500",
-        "name": null,
+        "name": "Astro Break",
         "jpName": "アストロブレイク",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00500",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00290",
-        "name": null,
+        "name": "Kung Fu Header",
         "jpName": "クンフーヘッド",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00290",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whs00740",
-        "name": null,
+        "name": "Cosmic Blast",
         "jpName": "ユニバースブラスト",
-        "type": null,
-        "element": null,
+        "type": "shot",
+        "element": "Forest",
         "power": 70,
         "tension": 70,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00740",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -950,56 +950,56 @@
         "skillId": "rhs10040",
         "name": null,
         "jpName": "パワーシュート",
-        "type": null,
+        "type": "shot",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10040",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "who00250",
-        "name": null,
+        "name": "Deceptor Dribble",
         "jpName": "まぼろしドリブル",
-        "type": null,
-        "element": null,
+        "type": "dribble",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00250",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00840",
-        "name": null,
+        "name": "Spatial Portal",
         "jpName": "ディメンションカット",
-        "type": null,
-        "element": null,
-        "power": null,
-        "tension": null,
+        "type": "defense",
+        "element": "Forest",
+        "power": 60,
+        "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00840",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   },
@@ -1014,56 +1014,56 @@
         "skillId": "rho10020",
         "name": null,
         "jpName": "ゆさぶりフェイント",
-        "type": null,
+        "type": "dribble",
         "element": null,
         "power": 30,
         "tension": 40,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rho10020",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "not_found_official_zukan"
       },
       {
         "skillId": "whd00150",
-        "name": null,
+        "name": "Ghost Pull",
         "jpName": "怨霊",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00150",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00060",
-        "name": null,
+        "name": "Spider Web",
         "jpName": "蜘蛛の糸",
-        "type": null,
-        "element": "Wind",
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00060",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00090",
-        "name": null,
+        "name": "Shadow Stitch",
         "jpName": "影縫い",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 60,
         "tension": 60,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00090",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       },
       {
         "skillId": "whd00080",
-        "name": null,
+        "name": "Fake Ball",
         "jpName": "フェイクボール",
-        "type": null,
-        "element": null,
+        "type": "defense",
+        "element": "Forest",
         "power": 50,
         "tension": 50,
         "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00080",
-        "metadataResolution": "not_found_exact_jp"
+        "metadataResolution": "official_zukan_page_order"
       }
     ]
   }
