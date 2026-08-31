@@ -6,6 +6,7 @@ on:
       - extract/azalee-discovery
     paths:
       - scripts/extract_sample_occult.py
+      - scripts/extract_sample_occult_v2.py
       - .github/workflows/extract-sample.yml
   workflow_dispatch:
 
@@ -23,7 +24,7 @@ jobs:
           ref: extract/azalee-discovery
 
       - name: Extract source-owned moves
-        run: python3 scripts/extract_sample_occult.py
+        run: python3 scripts/extract_sample_occult_v2.py
 
       - name: Commit validated sample and report
         run: |
