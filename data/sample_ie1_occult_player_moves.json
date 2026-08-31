@@ -1,7 +1,7 @@
 {
   "38": {
     "name": "Nathan Jones",
-    "jpName": "イナイレDB",
+    "jpName": "鉈 十三",
     "sourceNo": 38,
     "internalCode": "c01000410",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000410",
@@ -9,7 +9,7 @@
       {
         "skillId": "rhk10010",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "きあいのパンチ",
         "type": null,
         "element": null,
         "power": 30,
@@ -20,7 +20,7 @@
       {
         "skillId": "whk00050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ゆがむ空間",
         "type": null,
         "element": null,
         "power": 50,
@@ -31,7 +31,7 @@
       {
         "skillId": "whk00140",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "つむじ",
         "type": null,
         "element": "Wind",
         "power": 50,
@@ -42,7 +42,7 @@
       {
         "skillId": "whd00210",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ブレードアタック",
         "type": null,
         "element": null,
         "power": 50,
@@ -53,7 +53,7 @@
       {
         "skillId": "whk00800",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影掴み",
         "type": null,
         "element": null,
         "power": 50,
@@ -64,7 +64,7 @@
       {
         "skillId": "whk00190",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "キラーブレード",
         "type": null,
         "element": null,
         "power": 50,
@@ -76,7 +76,7 @@
   },
   "39": {
     "name": "Russell Walk",
-    "jpName": "イナイレDB",
+    "jpName": "三途 渡",
     "sourceNo": 39,
     "internalCode": "c01000420",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000420",
@@ -84,7 +84,7 @@
       {
         "skillId": "rhd10020",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ショルダーチャージ",
         "type": null,
         "element": null,
         "power": 30,
@@ -95,7 +95,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -106,7 +106,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -117,7 +117,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -128,7 +128,7 @@
       {
         "skillId": "whd00030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "コイルターン",
         "type": null,
         "element": "Wind",
         "power": 50,
@@ -140,7 +140,7 @@
   },
   "40": {
     "name": "Jason Jones",
-    "jpName": "イナイレDB",
+    "jpName": "柳田 しげる",
     "sourceNo": 40,
     "internalCode": "c01000430",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000430",
@@ -148,7 +148,7 @@
       {
         "skillId": "rhd10050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ローリングカット",
         "type": null,
         "element": null,
         "power": 30,
@@ -159,7 +159,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -170,7 +170,7 @@
       {
         "skillId": "whd00080",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "フェイクボール",
         "type": null,
         "element": null,
         "power": 50,
@@ -181,7 +181,7 @@
       {
         "skillId": "whd00250",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "分身ディフェンス",
         "type": null,
         "element": "Wind",
         "power": 60,
@@ -192,7 +192,7 @@
       {
         "skillId": "whd00030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "コイルターン",
         "type": null,
         "element": "Wind",
         "power": 50,
@@ -203,7 +203,7 @@
       {
         "skillId": "whd00160",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ドッペルゲンガー",
         "type": null,
         "element": null,
         "power": 50,
@@ -215,7 +215,7 @@
   },
   "41": {
     "name": "Ken Furan",
-    "jpName": "イナイレDB",
+    "jpName": "不乱 拳",
     "sourceNo": 41,
     "internalCode": "c01000440",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000440",
@@ -223,7 +223,7 @@
       {
         "skillId": "rhd10050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ローリングカット",
         "type": null,
         "element": null,
         "power": 30,
@@ -234,7 +234,7 @@
       {
         "skillId": "whd00040",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "アースクェイク",
         "type": null,
         "element": null,
         "power": 50,
@@ -245,7 +245,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -256,7 +256,7 @@
       {
         "skillId": "whd00200",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "メガクェイク",
         "type": null,
         "element": null,
         "power": 70,
@@ -267,7 +267,7 @@
       {
         "skillId": "whd00400",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ノーエスケイプ",
         "type": null,
         "element": null,
         "power": 85,
@@ -279,7 +279,7 @@
   },
   "42": {
     "name": "Jerry Fulton",
-    "jpName": "イナイレDB",
+    "jpName": "屍 藤美",
     "sourceNo": 42,
     "internalCode": "c01000450",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000450",
@@ -287,7 +287,7 @@
       {
         "skillId": "rhd10010",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "フェイントプレイ",
         "type": null,
         "element": null,
         "power": 30,
@@ -298,7 +298,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -309,7 +309,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -320,7 +320,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -331,7 +331,7 @@
       {
         "skillId": "who00110",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "スーパーアルマジロ",
         "type": null,
         "element": null,
         "power": 50,
@@ -342,7 +342,7 @@
       {
         "skillId": "whd00160",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ドッペルゲンガー",
         "type": null,
         "element": null,
         "power": 50,
@@ -354,7 +354,7 @@
   },
   "43": {
     "name": "Ray Mannings",
-    "jpName": "イナイレDB",
+    "jpName": "霊幻 道久",
     "sourceNo": 43,
     "internalCode": "c01000460",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000460",
@@ -362,7 +362,7 @@
       {
         "skillId": "rho10010",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ホッピングトリック",
         "type": null,
         "element": null,
         "power": 30,
@@ -373,7 +373,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -384,7 +384,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -395,7 +395,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -406,7 +406,7 @@
       {
         "skillId": "whd00050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "クイックドロウ",
         "type": null,
         "element": null,
         "power": 50,
@@ -418,7 +418,7 @@
   },
   "44": {
     "name": "Robert Mayer",
-    "jpName": "イナイレDB",
+    "jpName": "木乃伊 魔美",
     "sourceNo": 44,
     "internalCode": "c01000470",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000470",
@@ -426,7 +426,7 @@
       {
         "skillId": "rho10010",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ホッピングトリック",
         "type": null,
         "element": null,
         "power": 30,
@@ -437,7 +437,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -448,7 +448,7 @@
       {
         "skillId": "whd00060",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "蜘蛛の糸",
         "type": null,
         "element": "Wind",
         "power": 60,
@@ -459,7 +459,7 @@
       {
         "skillId": "whk00050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ゆがむ空間",
         "type": null,
         "element": null,
         "power": 50,
@@ -470,7 +470,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -482,7 +482,7 @@
   },
   "45": {
     "name": "Alexander Brave",
-    "jpName": "イナイレDB",
+    "jpName": "八墓 祟",
     "sourceNo": 45,
     "internalCode": "c01000480",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000480",
@@ -490,7 +490,7 @@
       {
         "skillId": "rho10050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "フェイント抜き",
         "type": null,
         "element": null,
         "power": 30,
@@ -501,7 +501,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -512,7 +512,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -523,7 +523,7 @@
       {
         "skillId": "whd00120",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ハリケーンアロー",
         "type": null,
         "element": null,
         "power": 60,
@@ -534,7 +534,7 @@
       {
         "skillId": "who00100",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "呪い",
         "type": null,
         "element": null,
         "power": 50,
@@ -546,7 +546,7 @@
   },
   "46": {
     "name": "Johan Tassman",
-    "jpName": "イナイレDB",
+    "jpName": "幽谷 博之",
     "sourceNo": 46,
     "internalCode": "c01000490",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000490",
@@ -554,7 +554,7 @@
       {
         "skillId": "rhs10030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ワンバンシュート",
         "type": null,
         "element": null,
         "power": 30,
@@ -565,7 +565,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -576,7 +576,7 @@
       {
         "skillId": "whs00500",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "アストロブレイク",
         "type": null,
         "element": null,
         "power": 60,
@@ -587,7 +587,7 @@
       {
         "skillId": "whs01590",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "マボロシショット",
         "type": null,
         "element": "Forest",
         "power": 60,
@@ -598,7 +598,7 @@
       {
         "skillId": "whd00840",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ディメンションカット",
         "type": null,
         "element": null,
         "power": null,
@@ -610,7 +610,7 @@
   },
   "47": {
     "name": "Troy Moon",
-    "jpName": "イナイレDB",
+    "jpName": "月村 憲一",
     "sourceNo": 47,
     "internalCode": "c01000500",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000500",
@@ -618,7 +618,7 @@
       {
         "skillId": "rho10030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ヒールリフト",
         "type": null,
         "element": null,
         "power": 30,
@@ -629,7 +629,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -640,7 +640,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -651,7 +651,7 @@
       {
         "skillId": "whs00020",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ツインブースト",
         "type": null,
         "element": null,
         "power": 70,
@@ -662,7 +662,7 @@
       {
         "skillId": "who00630",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ウルトラムーン",
         "type": null,
         "element": null,
         "power": 70,
@@ -673,7 +673,7 @@
       {
         "skillId": "who00240",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "マジック",
         "type": null,
         "element": null,
         "power": 50,
@@ -685,7 +685,7 @@
   },
   "48": {
     "name": "Burt Wolf",
-    "jpName": "イナイレDB",
+    "jpName": "武羅渡 牙",
     "sourceNo": 48,
     "internalCode": "c01000510",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000510",
@@ -693,7 +693,7 @@
       {
         "skillId": "rho10010",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ホッピングトリック",
         "type": null,
         "element": null,
         "power": 30,
@@ -704,7 +704,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -715,7 +715,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -726,7 +726,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -737,7 +737,7 @@
       {
         "skillId": "who00160",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "残像",
         "type": null,
         "element": null,
         "power": 60,
@@ -749,7 +749,7 @@
   },
   "49": {
     "name": "Rob Crombie",
-    "jpName": "イナイレDB",
+    "jpName": "不死 祀",
     "sourceNo": 49,
     "internalCode": "c01000520",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000520",
@@ -757,7 +757,7 @@
       {
         "skillId": "rhk10030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "パワーハンドキャッチ",
         "type": null,
         "element": null,
         "power": 30,
@@ -768,7 +768,7 @@
       {
         "skillId": "whk00050",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ゆがむ空間",
         "type": null,
         "element": null,
         "power": 50,
@@ -779,7 +779,7 @@
       {
         "skillId": "whd00100",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "四股踏み",
         "type": null,
         "element": null,
         "power": 50,
@@ -790,7 +790,7 @@
       {
         "skillId": "whd00740",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ダッシュトレイン",
         "type": null,
         "element": null,
         "power": 50,
@@ -801,7 +801,7 @@
       {
         "skillId": "whk00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ロケットこぶし",
         "type": null,
         "element": null,
         "power": 60,
@@ -813,7 +813,7 @@
   },
   "50": {
     "name": "Chuck Dollman",
-    "jpName": "イナイレDB",
+    "jpName": "人形 幻",
     "sourceNo": 50,
     "internalCode": "c01000530",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000530",
@@ -821,7 +821,7 @@
       {
         "skillId": "rhs10020",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "曲がるシュート",
         "type": null,
         "element": null,
         "power": 30,
@@ -832,7 +832,7 @@
       {
         "skillId": "whs00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ファントムシュート",
         "type": null,
         "element": null,
         "power": 50,
@@ -843,7 +843,7 @@
       {
         "skillId": "whd00060",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "蜘蛛の糸",
         "type": null,
         "element": "Wind",
         "power": 60,
@@ -854,7 +854,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -865,7 +865,7 @@
       {
         "skillId": "who00380",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "合気道",
         "type": null,
         "element": "Fire",
         "power": 70,
@@ -877,7 +877,7 @@
   },
   "51": {
     "name": "Uxley Allen",
-    "jpName": "イナイレDB",
+    "jpName": "円谷 未知",
     "sourceNo": 51,
     "internalCode": "c01000540",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000540",
@@ -885,7 +885,7 @@
       {
         "skillId": "rhs10030",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ワンバンシュート",
         "type": null,
         "element": null,
         "power": 30,
@@ -896,7 +896,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -907,7 +907,7 @@
       {
         "skillId": "whs00500",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "アストロブレイク",
         "type": null,
         "element": null,
         "power": 60,
@@ -918,7 +918,7 @@
       {
         "skillId": "whs00290",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "クンフーヘッド",
         "type": null,
         "element": null,
         "power": 50,
@@ -929,7 +929,7 @@
       {
         "skillId": "whs00740",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ユニバースブラスト",
         "type": null,
         "element": null,
         "power": 70,
@@ -941,7 +941,7 @@
   },
   "52": {
     "name": "Phil Noir",
-    "jpName": "イナイレDB",
+    "jpName": "黒上 呪",
     "sourceNo": 52,
     "internalCode": "c01000550",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000550",
@@ -949,7 +949,7 @@
       {
         "skillId": "rhs10040",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "パワーシュート",
         "type": null,
         "element": null,
         "power": 30,
@@ -960,7 +960,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -971,7 +971,7 @@
       {
         "skillId": "who00250",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "まぼろしドリブル",
         "type": null,
         "element": null,
         "power": 60,
@@ -982,7 +982,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -993,7 +993,7 @@
       {
         "skillId": "whd00840",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ディメンションカット",
         "type": null,
         "element": null,
         "power": null,
@@ -1005,7 +1005,7 @@
   },
   "53": {
     "name": "Mick Askley",
-    "jpName": "イナイレDB",
+    "jpName": "魔界 崇雄",
     "sourceNo": 53,
     "internalCode": "c01000560",
     "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c01000560",
@@ -1013,7 +1013,7 @@
       {
         "skillId": "rho10020",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "ゆさぶりフェイント",
         "type": null,
         "element": null,
         "power": 30,
@@ -1024,7 +1024,7 @@
       {
         "skillId": "whd00150",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "怨霊",
         "type": null,
         "element": null,
         "power": 60,
@@ -1035,7 +1035,7 @@
       {
         "skillId": "whd00060",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "蜘蛛の糸",
         "type": null,
         "element": "Wind",
         "power": 60,
@@ -1046,7 +1046,7 @@
       {
         "skillId": "whd00090",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "影縫い",
         "type": null,
         "element": null,
         "power": 60,
@@ -1057,7 +1057,7 @@
       {
         "skillId": "whd00080",
         "name": null,
-        "jpName": "イナイレDB",
+        "jpName": "フェイクボール",
         "type": null,
         "element": null,
         "power": 50,
