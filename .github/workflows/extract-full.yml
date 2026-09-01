@@ -1,0 +1,38 @@
+name: Build universal moves database
+
+on:
+  push:
+    branches:
+      - extract/azalee-discovery
+    paths:
+      - scripts/extract_full_database.py
+      - .github/workflows/extract-full.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: extract/azalee-discovery
+
+      - name: Build universal database
+        run: python3 scripts/extract_full_database.py
+
+      - name: Commit generated database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/PLAYER_MOVES_DATABASE.json data/SKILLS_DATABASE.json reports/full_extraction_report.json
+          if git diff --cached --quiet; then
+            echo "No output changes"
+          else
+            git commit -m "Generate universal moves database [skip ci]"
+            git push origin HEAD:extract/azalee-discovery
+          fi
