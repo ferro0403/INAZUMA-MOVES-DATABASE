@@ -1,0 +1,23 @@
+name: Inspect extraction sources
+on:
+  push:
+    branches: [extract/azalee-discovery]
+    paths:
+      - scripts/inspect_zukan_html.py
+      - scripts/inspect_azalee_characters.py
+      - scripts/discover_jp_db_data_source.py
+      - scripts/test_direct_character_mapping.py
+      - scripts/list_jp_db_api_routes.py
+      - scripts/test_skills_list.py
+      - scripts/test_azalee_basic_skills.py
+      - .github/workflows/inspect-zukan.yml
+  workflow_dispatch:
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: extract/azalee-discovery
+      - run: python3 scripts/test_azalee_basic_skills.py

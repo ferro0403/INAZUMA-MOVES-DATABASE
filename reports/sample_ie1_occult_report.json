@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "ownership": "https://inazuma-eleven-db.vercel.app",
+    "metadata": "https://azalee.rosegriffon.fr"
+  },
+  "requestedPlayers": 16,
+  "resolvedPlayers": 16,
+  "unresolvedPlayers": [],
+  "resolvedMoves": 68,
+  "unresolvedMoves": [
+    {
+      "playerId": "38",
+      "skillId": "rhk10010",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "39",
+      "skillId": "rhd10020",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "40",
+      "skillId": "rhd10050",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "41",
+      "skillId": "rhd10050",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "42",
+      "skillId": "rhd10010",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "43",
+      "skillId": "rho10010",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "44",
+      "skillId": "rho10010",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "45",
+      "skillId": "rho10050",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "46",
+      "skillId": "rhs10030",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "47",
+      "skillId": "rho10030",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "48",
+      "skillId": "rho10010",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "49",
+      "skillId": "rhk10030",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "50",
+      "skillId": "rhs10020",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "51",
+      "skillId": "rhs10030",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "52",
+      "skillId": "rhs10040",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    },
+    {
+      "playerId": "53",
+      "skillId": "rho10020",
+      "error": "incomplete metadata",
+      "metadataResolution": "not_found_official_zukan"
+    }
+  ],
+  "timingSeconds": 15.541,
+  "totalMoveLinks": 84
+}

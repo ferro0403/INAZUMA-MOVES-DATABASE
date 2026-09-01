@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "characters": "https://inazuma-eleven-db.vercel.app/api/get-characters-list",
+    "skills": "https://inazuma-eleven-db.vercel.app/api/get-skills-list",
+    "ownership": "https://inazuma-eleven-db.vercel.app/character/<character_id>",
+    "officialEnglishNames": [
+      "https://zukan.inazuma.jp/skill/",
+      "https://zukan.inazuma.jp/en/skill/"
+    ]
+  },
+  "sourceCharacterRows": 5478,
+  "rowsWithoutPublicNo": 22,
+  "duplicatePublicNos": {},
+  "eligibleUniquePublicNos": 5456,
+  "resolvedOwnershipPages": 5456,
+  "ownershipErrors": [],
+  "playersWithNoMoveLinks": [
+    3938,
+    3939
+  ],
+  "totalPlayerMoveLinks": 28999,
+  "unknownSkillReferences": [],
+  "skills": {
+    "sourceRows": 919,
+    "resolvedSkills": 919,
+    "missingOfficialEnglish": [
+      {
+        "skillId": "rhd10010",
+        "jpName": "フェイントプレイ"
+      },
+      {
+        "skillId": "rhd10020",
+        "jpName": "ショルダーチャージ"
+      },
+      {
+        "skillId": "rhd10030",
+        "jpName": "トリックカット"
+      },
+      {
+        "skillId": "rhd10040",
+        "jpName": "ひっぱりカット"
+      },
+      {
+        "skillId": "rhd10050",
+        "jpName": "ローリングカット"
+      },
+      {
+        "skillId": "rhk10010",
+        "jpName": "きあいのパンチ"
+      },
+      {
+        "skillId": "rhk10020",
+        "jpName": "ふんばりキャッチ"
+      },
+      {
+        "skillId": "rhk10030",
+        "jpName": "パワーハンドキャッチ"
+      },
+      {
+        "skillId": "rho10010",
+        "jpName": "ホッピングトリック"
+      },
+      {
+        "skillId": "rho10020",
+        "jpName": "ゆさぶりフェイント"
+      },
+      {
+        "skillId": "rho10030",
+        "jpName": "ヒールリフト"
+      },
+      {
+        "skillId": "rho10040",
+        "jpName": "また抜き"
+      },
+      {
+        "skillId": "rho10050",
+        "jpName": "フェイント抜き"
+      },
+      {
+        "skillId": "rho10060",
+        "jpName": "かく乱ステップ"
+      },
+      {
+        "skillId": "rhs10010",
+        "jpName": "ループシュート"
+      },
+      {
+        "skillId": "rhs10020",
+        "jpName": "曲がるシュート"
+      },
+      {
+        "skillId": "rhs10030",
+        "jpName": "ワンバンシュート"
+      },
+      {
+        "skillId": "rhs10040",
+        "jpName": "パワーシュート"
+      },
+      {
+        "skillId": "rhs10050",
+        "jpName": "グラウンダーシュート"
+      },
+      {
+        "skillId": "whd00140",
+        "jpName": "スーパースキャン"
+      },
+      {
+        "skillId": "whd01500",
+        "jpName": "ブリリアントムーヴ"
+      },
+      {
+        "skillId": "whk01420",
+        "jpName": "ど根性ストレート"
+      },
+      {
+        "skillId": "whk01430",
+        "jpName": "涙で波だ"
+      },
+      {
+        "skillId": "whk01500",
+        "jpName": "ＫＡＭＡＫＵＲＡ　Ｄ"
+      },
+      {
+        "skillId": "whk01615",
+        "jpName": "マカロニスパゲッティ　ソース増量"
+      },
+      {
+        "skillId": "who00130",
+        "jpName": "スーパースキャン"
+      },
+      {
+        "skillId": "whs03330",
+        "jpName": "皇帝ペンギン２号　ｆｅａｔ．シャーク"
+      }
+    ],
+    "malformedRows": 0
+  },
+  "officialEnglishBridge": {
+    "pages": [
+      {
+        "page": 1,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 2,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 3,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 4,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 5,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 6,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 7,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 8,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 9,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 10,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 11,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 12,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 13,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 14,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 15,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 16,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 17,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 18,
+        "jp": 50,
+        "en": 50
+      },
+      {
+        "page": 19,
+        "jp": 3,
+        "en": 3
+      }
+    ],
+    "totalPairedRows": 903,
+    "uniqueJapaneseNames": 885,
+    "resolvedUniqueNames": 884,
+    "ambiguousJapaneseNames": {
+      "スーパースキャン": [
+        "Attack Scan",
+        "Defence Scan"
+      ]
+    }
+  },
+  "highIdValidation": {
+    "4487": {
+      "playerId": 4487,
+      "characterId": "c07060110",
+      "jpName": "下鶴 改",
+      "nicknameJa": "改",
+      "teamJa": "御影専農中",
+      "role": "選手",
+      "position": "FW",
+      "element": "Fire",
+      "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c07060110",
+      "moves": [
+        {
+          "skillId": "rhs10030",
+          "name": null,
+          "jpName": "ワンバンシュート",
+          "type": "shot",
+          "element": "Void",
+          "power": 30,
+          "tension": 40,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10030",
+          "englishNameStatus": "no_official_zukan_entry"
+        },
+        {
+          "skillId": "whs00180",
+          "name": "Patriot Shot",
+          "jpName": "パトリオットシュート",
+          "type": "shot",
+          "element": "Fire",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00180",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "who00130",
+          "name": null,
+          "jpName": "スーパースキャン",
+          "type": "dribble",
+          "element": "Forest",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00130",
+          "englishNameStatus": "no_official_zukan_entry"
+        },
+        {
+          "skillId": "whs00030",
+          "name": "Fire Tornado",
+          "jpName": "ファイアトルネード",
+          "type": "shot",
+          "element": "Fire",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00030",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whd00140",
+          "name": null,
+          "jpName": "スーパースキャン",
+          "type": "defense",
+          "element": "Forest",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00140",
+          "englishNameStatus": "no_official_zukan_entry"
+        },
+        {
+          "skillId": "whs00650",
+          "name": "Gungnir",
+          "jpName": "グングニル",
+          "type": "shot",
+          "element": "Wind",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00650",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs02750",
+          "name": "Fire Tornado A",
+          "jpName": "ファイアトルネードＡ",
+          "type": "shot",
+          "element": "Fire",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs02750",
+          "englishNameStatus": "official_zukan"
+        }
+      ]
+    },
+    "4507": {
+      "playerId": 4507,
+      "characterId": "c07070020",
+      "jpName": "佐久間 次郎",
+      "nicknameJa": "佐久間",
+      "teamJa": "帝国学園",
+      "role": "選手",
+      "position": "FW",
+      "element": "Forest",
+      "sourceUrl": "https://inazuma-eleven-db.vercel.app/character/c07070020",
+      "moves": [
+        {
+          "skillId": "rhs10040",
+          "name": null,
+          "jpName": "パワーシュート",
+          "type": "shot",
+          "element": "Void",
+          "power": 30,
+          "tension": 40,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/rhs10040",
+          "englishNameStatus": "no_official_zukan_entry"
+        },
+        {
+          "skillId": "whs00400",
+          "name": "Emperor Penguin No. 2",
+          "jpName": "皇帝ペンギン２号",
+          "type": "shot",
+          "element": "Forest",
+          "power": 85,
+          "tension": 80,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00400",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "who00010",
+          "name": "Clone Faker",
+          "jpName": "分身フェイント",
+          "type": "dribble",
+          "element": "Forest",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00010",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whd00020",
+          "name": "Killer Slide",
+          "jpName": "キラースライド",
+          "type": "defense",
+          "element": "Forest",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00020",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs00310",
+          "name": "Divine Arrows",
+          "jpName": "ディバインアロー",
+          "type": "shot",
+          "element": "Wind",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00310",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whd00050",
+          "name": "Quick Draw",
+          "jpName": "クイックドロウ",
+          "type": "defense",
+          "element": "Forest",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd00050",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whd01020",
+          "name": "Jungle Jam",
+          "jpName": "ディープジャングル",
+          "type": "defense",
+          "element": "Forest",
+          "power": 100,
+          "tension": 100,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whd01020",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "who00090",
+          "name": "Rodeo Clown",
+          "jpName": "玉乗りピエロ",
+          "type": "dribble",
+          "element": "Wind",
+          "power": 50,
+          "tension": 50,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00090",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "who00270",
+          "name": "Gale Dash",
+          "jpName": "烈風ダッシュ",
+          "type": "dribble",
+          "element": "Fire",
+          "power": 70,
+          "tension": 70,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00270",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "who00500",
+          "name": "Heel Drop",
+          "jpName": "ならく落とし",
+          "type": "dribble",
+          "element": "Fire",
+          "power": 60,
+          "tension": 60,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/who00500",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs00020",
+          "name": "Twin Boost",
+          "jpName": "ツインブースト",
+          "type": "shot",
+          "element": "Fire",
+          "power": 70,
+          "tension": 70,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00020",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs00080",
+          "name": "Death Zone",
+          "jpName": "デスゾーン",
+          "type": "shot",
+          "element": "Forest",
+          "power": 70,
+          "tension": 70,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00080",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs00610",
+          "name": "Emperor Penguin No. 1",
+          "jpName": "皇帝ペンギン１号",
+          "type": "shot",
+          "element": "Forest",
+          "power": 85,
+          "tension": 80,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00610",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs00820",
+          "name": "Space Penguin",
+          "jpName": "スペースペンギン",
+          "type": "shot",
+          "element": "Wind",
+          "power": 100,
+          "tension": 100,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs00820",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs01050",
+          "name": "Emperor Penguin No. 3",
+          "jpName": "皇帝ペンギン３号",
+          "type": "shot",
+          "element": "Forest",
+          "power": 100,
+          "tension": 100,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs01050",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs01480",
+          "name": "Emperor Penguin 7",
+          "jpName": "皇帝ペンギン７",
+          "type": "shot",
+          "element": "Wind",
+          "power": 85,
+          "tension": 80,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs01480",
+          "englishNameStatus": "official_zukan"
+        },
+        {
+          "skillId": "whs02010",
+          "name": "Final Death Zone",
+          "jpName": "ラスト・デスゾーン",
+          "type": "shot",
+          "element": "Forest",
+          "power": 100,
+          "tension": 100,
+          "sourceUrl": "https://inazuma-eleven-db.vercel.app/skill/whs02010",
+          "englishNameStatus": "official_zukan"
+        }
+      ]
+    }
+  },
+  "timingSeconds": 316.501
+}
