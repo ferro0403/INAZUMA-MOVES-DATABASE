@@ -9,6 +9,7 @@ on:
       - scripts/test_direct_character_mapping.py
       - scripts/list_jp_db_api_routes.py
       - scripts/test_skills_list.py
+      - scripts/test_azalee_basic_skills.py
       - .github/workflows/inspect-zukan.yml
   workflow_dispatch:
 jobs:
@@ -19,4 +20,4 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: extract/azalee-discovery
-      - run: python3 scripts/test_skills_list.py
+      - run: python3 scripts/test_azalee_basic_skills.py
