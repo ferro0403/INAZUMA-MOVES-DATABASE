@@ -5,14 +5,15 @@ on:
     paths:
       - scripts/inspect_zukan_html.py
       - scripts/inspect_azalee_characters.py
+      - scripts/discover_jp_db_data_source.py
       - .github/workflows/inspect-zukan.yml
   workflow_dispatch:
 jobs:
   inspect:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
           ref: extract/azalee-discovery
-      - run: python3 scripts/inspect_azalee_characters.py
+      - run: python3 scripts/discover_jp_db_data_source.py
